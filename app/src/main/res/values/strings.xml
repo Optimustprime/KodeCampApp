@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="FirstKotlinapp">kotlinapp</string>
+    <string name="advanced_android_developer">Advanced Android Developer</string>
+    <string name="string_advanced_android_developer">Advanaced Android Developer</string>
+    <string name="ajadi_marvellous_oladayo">AJADI Marvellous Oladayo</string>
+    <string name="todo">TODO</string>
+    <string name="Introapp">Introductory Application</string>
+    <string name="android_developer_kotlin_beginner">Android Developer(Kotlin): Beginner</string>
+    <string name="a_detrmined_and_inquisitive_young_man">A detrmined and inquisitive young man</string>
+    <string name="mood">MOOD</string>
+    <string name="random_words">Random Words</string>
+    <string name="button">Button</string>
+</resources>
